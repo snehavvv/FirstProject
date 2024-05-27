@@ -1,3 +1,2 @@
-<?php
-echo "Hello";
-?>
+
+public static void main
